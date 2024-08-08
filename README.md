@@ -41,7 +41,7 @@
 
 ## calendario de evaluaciones
 
-<!-- - control 01, 2024-03-28 jueves, en horario de clase -->
+- control 01, 2024-08-23 viernes, en horario de ayudantía
 <!-- - control 02, 2024-04-26 viernes, en horario de ayudantía -->
 <!-- - control 03, 2024-05-24 viernes, en horario de ayudantía -->
 <!-- - control 04, 2024-06-27 jueves, en horario de clase -->
@@ -51,12 +51,12 @@
 
 | sesión                                   | fecha                   | tema                                          |
 | :--------------------------------------- | :---------------------- | :-------------------------------------------- |
-<!-- | [clase-01](clases/clase-01/)             | 2024-08-08 jueves       | unidad 0: vectores y fuerzas                  | -->
-<!-- | [ayudantia-01](ayudantias/ayudantia-01/) | 2024-03-15 viernes      | unidad 0: vectores y fuerzas                  | -->
-<!-- | [clase-02](clases/clase-02/)             | 2024-03-21 jueves       | unidad 1: cinemática en 1D y 2D               | -->
-<!-- | [ayudantia-02](ayudantias/ayudantia-02/) | 2024-03-22 viernes      | unidad 1: cinemática en 1D y 2D               | -->
-<!-- | [clase-03](clases/clase-03/)             | 2024-03-28 jueves       | evaluación: control 1, unidades 0, 1          | -->
-<!-- | [ayudantia-03](ayudantias/ayudantia-03/) | 2024-03-29 viernes      | feriado, no hay ayudantía                     | -->
+| [clase-01](clases/clase-01/)             | 2024-08-08 jueves       | unidad 0: vectores y fuerzas                  |
+| [ayudantia-01](ayudantias/ayudantia-01/) | 2024-08-09 viernes      | unidad 0: vectores y fuerzas                  |
+| [clase-02](clases/clase-02/)             | 2024-08-15 jueves       | feriado, no hay clase                         |
+| [ayudantia-02](ayudantias/ayudantia-02/) | 2024-08-16 viernes      | unidad 1: cinemática en 1D y 2D               |
+| [clase-03](clases/clase-03/)             | 2024-08-22 jueves       | unidad 1: cinemática en 1D y 2D               |
+| [ayudantia-03](ayudantias/ayudantia-03/) | 2024-08-23 viernes      | evaluación: control 1, unidades 0, 1          |
 <!-- | [clase-04](clases/clase-04/)             | 2024-04-04 jueves       | unidad 2: dinámica en 1D y 2D                 | -->
 <!-- | [ayudantia-04](ayudantias/ayudantia-04/) | 2024-04-05 viernes      | unidad 2: dinámica en 1D y 2D                 | -->
 <!-- | [clase-05](clases/clase-05/)             | 2024-04-11 jueves       | unidad 3: energía y cantidad de movimiento    | -->
