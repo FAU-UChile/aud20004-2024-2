@@ -1,6 +1,6 @@
 # ayudantia-02
 
-viernes 22 marzo 2024
+viernes 16 agosto 2024
 
 ## resumen
 
