@@ -42,8 +42,8 @@
 ## calendario de evaluaciones
 
 - control 01, 2024-08-30 viernes, en horario de ayudantía
-- control 02, 2024-10-04 viernes, en horario de ayudantía
-- control 03, 2024-10-18 viernes, en horario de ayudantía
+- control 02, 2024-10-11 viernes, en horario de ayudantía
+- control 03, 2024-10-25 viernes, en horario de ayudantía
 - control 04, 2024-11-22 viernes, en horario de ayudantía
 - trabajo de investigación, 2024-11-17 domingo 11:50pm, durante semana de trabajo autónomo
 
@@ -66,14 +66,14 @@
 | semana receso                            | 2024-09-16 / 2024-09-20 | sin clases, sin evaluaciones                  |
 | [clase-07](clases/clase-07/)             | 2024-09-26 jueves       | unidad 5: calor y temperatura                 |
 | [ayudantia-07](ayudantias/ayudantia-07/) | 2024-09-27 viernes      | unidad 5: calor y temperatura                 |
-| [clase-08](clases/clase-08/)             | 2024-10-03 jueves       | repaso y ejercicios unidades 3, 4             |
-| [ayudantia-08](ayudantias/ayudantia-08/) | 2024-10-04 viernes      | evaluación: control 2, unidades 3, 4          |
-| [clase-09](clases/clase-09/)             | 2024-10-10 jueves       | unidad 6: ondas y sonido                      |
-| [ayudantia-09](ayudantias/ayudantia-09/) | 2024-10-11 viernes      | unidad 6: ondas y sonido                      |
-| [clase-10](clases/clase-10/)             | 2024-10-17 jueves       | repaso y ejercicios unidades 5, 6             |
-| [ayudantia-10](ayudantias/ayudantia-10/) | 2024-10-18 viernes      | evaluación: control 3, unidades 5, 6          |
-| [clase-11](clases/clase-11/)             | 2024-10-24 jueves       | unidad 7: luz y color                         |
-| [ayudantia-11](ayudantias/ayudantia-11/) | 2024-10-25 viernes      | unidad 7: luz y color                         |
+| [clase-08](clases/clase-08/)             | 2024-10-03 jueves       | unidad 6: ondas y sonido                      |
+| [ayudantia-08](ayudantias/ayudantia-08/) | 2024-10-04 viernes      | unidad 6: ondas y sonido                      |
+| [clase-09](clases/clase-09/)             | 2024-10-10 jueves       | repaso y ejercicios unidades 3, 4             |
+| [ayudantia-09](ayudantias/ayudantia-09/) | 2024-10-11 viernes      | evaluación: control 2, unidades 3, 4          |
+| [clase-10](clases/clase-10/)             | 2024-10-17 jueves       | unidad 7: luz y color                         |
+| [ayudantia-10](ayudantias/ayudantia-10/) | 2024-10-18 viernes      | unidad 7: luz y color                         |
+| [clase-11](clases/clase-11/)             | 2024-10-24 jueves       | repaso y ejercicios unidades 5, 6             |
+| [ayudantia-11](ayudantias/ayudantia-11/) | 2024-10-25 viernes      | evaluación: control 3, unidades 5, 6          |
 | [clase-12](clases/clase-12/)             | 2024-10-31 jueves       | unidad 8: electricidad y magnetismo           |
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2024-11-01 viernes      | unidad 8: electricidad y magnetismo           |
 | [clase-13](clases/clase-13/)             | 2024-11-07 jueves       | salida a terreno                              |
