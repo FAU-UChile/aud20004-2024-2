@@ -31,7 +31,7 @@ pauta:
 - no olvides las unidades de medida
 - $1[N] = 1[kg\frac{m}{s^2}]$
 - $G = 6.67 \cdot 10^{-11} \left[\frac{Nm^2}{kg^2}\right]$
-- $g \approx 10 [\m/\s^2]$
+- $g \approx 10 [\frac\m/\s^2]$
 
 ## ejercicio-01 (3 puntos): tensión
 
