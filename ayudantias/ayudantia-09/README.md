@@ -30,8 +30,7 @@ pauta:
 - usa calculadora y los apuntes del curso
 - no olvides las unidades de medida
 - $1[N] = 1[kg\frac{m}{s^2}]$
-- $G = 6.67 \cdot 10^{-11} \left[\frac{Nm^2}{kg^2}\right]$
-- $g \approx 10 [\frac\m/\s^2]$
+- $g \approx 10 [\frac{m}{s^2}]$
 
 ## ejercicio-01 (3 puntos): tensión
 
@@ -51,7 +50,7 @@ b) si la grúa falla y deja caer al elefante desde los $15[m]$, calcule la veloc
 
 ## ejercicio-03 (3 puntos): balancín y torque
 
-un balancín de largo 10 metros, y con su eje de rotación a la mitad de su largo, tiene sobre uno de sus extremos una masa de $12[kg]$.
+un balancín de largo 8 metros, y con su eje de rotación a la mitad de su largo, tiene sobre uno de sus extremos una masa de $12[kg]$.
 
 a) dibuja el sistema y calcula el torque asociado a esta masa en el extremo.
 
