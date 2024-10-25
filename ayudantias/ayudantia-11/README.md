@@ -41,11 +41,11 @@ a) si tengo un vaso de agua de masa $m = 200[g]$ a $T = 30[°C]$, y le agrego un
 
 b) si tengo un vaso de agua de masa $m = 200[g]$ a $T = 30[°C]$, y le agrego un pedazo de cobre de $m = 100 g$ a cierta temperatura, y la temperatura final del sistema es $T = 40[°C]$, ¿cuál era la temperatura inicial del cobre?
 
-## ejercicio-02 (3 puntos): pixeles y colores
+## ejercicio-02 (3 puntos): gases ideales
 
-a) si un perrito puede ver cien millones de colores, ¿cuántos bits necesitamos para representar un color en la visión de un perrito?
+a) un gas ideal dentro de un cierto volumen, tiene una presión inicial de 1.2 atmósferas y una temperatura inicial de 24 Kelvin. el mismo gas, dentro del mismo volumen, sufre un cambio y tiene una presión final de cine mil Pascales, ¿cuál es la temperatura final del gas?
 
-b) si tenemos una imagen digital de 800 x 600 pixeles en formato RGB de 8 bits por canal, ¿cuántos bytes usa la imagen?
+b) un gas ideal tiene un volumen inicial de 3 litros, una presión inicial de 7 atmósferas, y una temperatura inicial de 10 Celsius. el mismo gas sufre cambios y termina con un volumen final de 7 litros y una temperatura final de 100 Kelvin, ¿cuál es la presión final del gas?
 
 ## ejercicio-03 (3 puntos): efecto Doppler
 
