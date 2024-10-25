@@ -53,10 +53,10 @@ a) si un sonido se emite a once mil [Hz] y se aleja de mí a 200 km/h, ¿cuál e
 
 b) si escucho un sonido un 12% más agudo de lo que realmente es, ¿cuál es la velocidad a la que se acerca a mí?
 
-## ejercicio-04 (3 puntos): onda de luz visible
+## ejercicio-04 (3 puntos): onda de sonido
 
-si una luz de color tiene una longitud de onda de $700[nm]$
+si un pajarito emite un sonido con frecuencia de 2.7 kHz
 
-a) ¿cuál es su frecuencia?
+a) ¿cuál es su longitud de onda?
 
-b) si esta luz recorre 7 millones de kilómetros, ¿cuánto tiempo demora en recorrer esa distancia?
+b) si este sonida recorre una distancia de 1.3 kilómetros, ¿cuánto tiempo demora en recorrer esa distancia?
