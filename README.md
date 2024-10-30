@@ -74,13 +74,14 @@
 | [ayudantia-10](ayudantias/ayudantia-10/) | 2024-10-18 viernes      | unidad 7: luz y color                         |
 | [clase-11](clases/clase-11/)             | 2024-10-24 jueves       | repaso y ejercicios unidades 5, 6             |
 | [ayudantia-11](ayudantias/ayudantia-11/) | 2024-10-25 viernes      | evaluación: control 3, unidades 5, 6          |
-| [clase-12](clases/clase-12/)             | 2024-10-31 jueves       | unidad 8: electricidad y magnetismo           |
-| [ayudantia-12](ayudantias/ayudantia-12/) | 2024-11-01 viernes      | unidad 8: electricidad y magnetismo           |
-| [clase-13](clases/clase-13/)             | 2024-11-07 jueves       | salida a terreno                              |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-08 viernes      | trabajo de investigación                      |
+| no hay clase por feriados                | 2024-10-31/2024-11-01   | no hay clase por feriados                     |
+| [clase-12](clases/clase-12/)             | 2024-10-07 jueves       | unidad 8: electricidad y magnetismo           |
+| [ayudantia-12](ayudantias/ayudantia-12/) | 2024-11-08 viernes      | unidad 8: electricidad y magnetismo           |
 | semana de trabajo autónomo               | 2024-11-11 / 2024-11-15 | sin clases, entrega trabajo de investigación  |
-| [clase-14](clases/clase-14/)             | 2024-11-21 jueves       | repaso y ejercicios unidades 7, 8             |
-| [ayudantia-14](ayudantias/ayudantia-14/) | 2024-11-22 viernes      | evaluación: control 4, unidades 7, 8          |
+| [clase-13](clases/clase-13/)             | 2024-11-21 jueves       | repaso y ejercicios unidades 7, 8             |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-22 viernes      | repaso y ejercicios unidades 7, 8             |
+| [clase-14](clases/clase-14/)             | 2024-11-21 jueves       | evaluación: control 4, unidades 7, 8          |
+| [ayudantia-14](ayudantias/ayudantia-14/) | 2024-11-22 viernes      | no hay ayudantía                              |
 | cierre acta                              | 2024-12-02 sábado       | plazo máximo envío actas                      |
 
 ## notas
