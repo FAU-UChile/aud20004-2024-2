@@ -79,9 +79,7 @@
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2024-11-08 viernes      | unidad 8: electricidad y magnetismo           |
 | semana de trabajo autónomo               | 2024-11-11 / 2024-11-15 | sin clases, entrega trabajo de investigación  |
 | [clase-13](clases/clase-13/)             | 2024-11-21 jueves       | repaso y ejercicios unidades 7, 8             |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-22 viernes      | repaso y ejercicios unidades 7, 8             |
-| [clase-14](clases/clase-14/)             | 2024-11-21 jueves       | evaluación: control 4, unidades 7, 8          |
-| [ayudantia-14](ayudantias/ayudantia-14/) | 2024-11-22 viernes      | no hay ayudantía                              |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-22 viernes      | evaluación: control 4, unidades 7, 8          |
 | cierre acta                              | 2024-12-02 sábado       | plazo máximo envío actas                      |
 
 ## notas
