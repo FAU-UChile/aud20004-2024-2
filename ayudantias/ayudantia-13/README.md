@@ -4,8 +4,8 @@ viernes 22 noviembre 2024
 
 control 4: unidades 7, 8
 
-unidad 7: luz y color
-unidad 8: electricidad y magnetismo
+- unidad 7: luz y color
+- unidad 8: electricidad y magnetismo
 
 ## control-04
 
